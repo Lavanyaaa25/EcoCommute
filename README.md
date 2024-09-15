@@ -46,7 +46,7 @@
 <br></br>
 <img width="960" src="https://github.com/user-attachments/assets/b910f5a7-3fe2-4f5e-b7a6-70c308c7f849">
 <br></br>
-<img width="960" alt="https://github.com/user-attachments/assets/fd193a6b-8a97-4ce8-a2d6-94f053853165">
+<img width="960" src="https://github.com/user-attachments/assets/fd193a6b-8a97-4ce8-a2d6-94f053853165">
 <br></br>
 <img width="960" src="https://github.com/user-attachments/assets/0a3ea5b9-cbdf-4dce-b9e9-ed435a1214c5">
 <br></br>
